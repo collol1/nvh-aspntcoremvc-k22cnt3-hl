@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|c:\\users\\tu141\\source\\repos\\nvhday01\\nvhday01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|solutionrelative:nvhday01\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|c:\\users\\tu141\\source\\repos\\nvhday01\\nvhday01\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|solutionrelative:nvhday01\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|c:\\users\\tu141\\source\\repos\\nvhday01\\nvhday01\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|solutionrelative:nvhday01\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|c:\\users\\tu141\\source\\repos\\nvhday01\\nvhday01\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|solutionrelative:nvhday01\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|c:\\users\\tu141\\source\\repos\\nvhday01\\nvhday01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|solutionrelative:nvhday01\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|c:\\users\\tu141\\source\\repos\\nvhday01\\nvhday01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54F33FB-3D03-41D4-81B7-F7814B0859D5}|NvhDay01\\NvhDay01.csproj|solutionrelative:nvhday01\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NvhDay01\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NvhDay01\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-18T08:29:01.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NvhDay01\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NvhDay01\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T08:12:54.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NvhDay01\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "NvhDay01\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T08:10:25.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "NvhDay01\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Pages\\Index.cshtml",
+              "RelativeToolTip": "NvhDay01\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T08:08:48.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NvhDay01\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "NvhDay01\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:07:27.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NvhDay01\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tu141\\source\\repos\\NvhDay01\\NvhDay01\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NvhDay01\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T08:04:21.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
