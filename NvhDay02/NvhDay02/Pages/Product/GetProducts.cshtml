@@ -1,0 +1,17 @@
+﻿
+@{
+    ViewData["Title"] = "GetProducts";
+    Layout = "/Product";
+}
+
+<h2>lấy dữ liệu từ viewbag</h2>
+<p>Mã sản phẩm:@ViewBag.product.ID</p>
+<p>Tên sản phẩm:@ViewBag.product.Name</p>
+<p>Giá sản phẩm:@ViewBag.product.Price</p>
+@{
+	// chuyển đổi ViewBag sang kiểu Product
+	var product = (NvhDay02.Models.Product)ViewBag.product;
+}
+<p>Mã sản phẩm: @product.Id</p>
+<p>Tên sản phẩm: @product.Name</p>
+<p>Giá sản phẩm: @product.Price</p>

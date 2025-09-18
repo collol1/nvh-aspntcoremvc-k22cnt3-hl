@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE\\NvhDay02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\pages\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\pages\\product\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\pages\\product\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\pages\\product\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|d:\\asp.net core\\nvhday02\\nvhday02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57E314BF-0FD3-4B97-9D7F-E72D41B0ECA5}|NvhDay02\\NvhDay02.csproj|solutionrelative:nvhday02\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NvhDay02\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NvhDay02\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T10:05:54.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Product\\Products.cshtml",
+              "RelativeDocumentMoniker": "NvhDay02\\Pages\\Product\\Products.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Product\\Products.cshtml",
+              "RelativeToolTip": "NvhDay02\\Pages\\Product\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T09:56:27.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "NvhDay02\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Index.cshtml",
+              "RelativeToolTip": "NvhDay02\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T10:02:37.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NvhDay02\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "NvhDay02\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T10:16:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "NvhDay02\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "NvhDay02\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:15:38.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetProducts.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Product\\GetProducts.cshtml",
+              "RelativeDocumentMoniker": "NvhDay02\\Pages\\Product\\GetProducts.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Product\\GetProducts.cshtml",
+              "RelativeToolTip": "NvhDay02\\Pages\\Product\\GetProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T09:32:03.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "NvhDay02\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "NvhDay02\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T10:16:45.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NvhDay02\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "NvhDay02\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T10:13:57.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NvhDay02\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "NvhDay02\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T10:05:50.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NvhDay02\\Models\\Product.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Models\\Product.cs",
+              "RelativeToolTip": "NvhDay02\\Models\\Product.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:43:53.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NvhDay02\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\NvhDay02\\NvhDay02\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NvhDay02\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T09:25:54.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

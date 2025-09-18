@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewData["Title"] = "Products";
+    Layout = "/Product";
+}
+
+<h2>Danh sách sản phẩm</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã sản phẩm</th>
+            <th>Tên sản phẩm</th>
+            <th>Giá sản phẩm</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in ViewBag.products)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+	</tbody>
+
