@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET CORE\\Nvhlession03View\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\shared\\_nvhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\shared\\_nvhnavbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\shared\\_nvhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\shared\\_nvhlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\nvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\nvhindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\viewcomponents\\nvhdemoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\viewcomponents\\nvhdemoviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\models\\errorviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\models\\errorviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\controllers\\nvhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\controllers\\nvhhomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\shared\\_nvhfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\shared\\_nvhfooter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\shared\\_nvhleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\shared\\_nvhleftmenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\shared\\nvhhome\\nvhviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\shared\\nvhhome\\nvhviewloop.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\shared\\nvhhome\\nvhviewlf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\shared\\nvhhome\\nvhviewlf.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\shared\\nvhhome\\nvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\shared\\nvhhome\\nvhabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|d:\\asp.net core\\nvhlession03view\\nvhlession03view\\pages\\shared\\components\\nvhdemo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F485FD00-1526-4A2F-A954-85A96FB68D92}|Nvhlession03View\\Nvhlession03View.csproj|solutionrelative:nvhlession03view\\pages\\shared\\components\\nvhdemo\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T11:13:16.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_NvhLayout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\_NvhLayout.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Shared\\_NvhLayout.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\_NvhLayout.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Shared\\_NvhLayout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:40:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_NvhFooter.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\_NvhFooter.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Shared\\_NvhFooter.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\_NvhFooter.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Shared\\_NvhFooter.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:34:50.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NvhIndex.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\NvhIndex.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\NvhIndex.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\NvhIndex.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\NvhIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:29:45.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_NvhNavbar.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\_NvhNavbar.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Shared\\_NvhNavbar.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\_NvhNavbar.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Shared\\_NvhNavbar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:38:05.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModels.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Models\\ErrorViewModels.cs",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Models\\ErrorViewModels.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Models\\ErrorViewModels.cs",
+              "RelativeToolTip": "Nvhlession03View\\Models\\ErrorViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T11:08:05.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T11:13:13.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NvhDemoViewComponent.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\ViewComponents\\NvhDemoViewComponent.cs",
+              "RelativeDocumentMoniker": "Nvhlession03View\\ViewComponents\\NvhDemoViewComponent.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\ViewComponents\\NvhDemoViewComponent.cs",
+              "RelativeToolTip": "Nvhlession03View\\ViewComponents\\NvhDemoViewComponent.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:22:27.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "category.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Models\\category.cs",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Models\\category.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Models\\category.cs",
+              "RelativeToolTip": "Nvhlession03View\\Models\\category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:21:05.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NvhHomeController.cs",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Controllers\\NvhHomeController.cs",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Controllers\\NvhHomeController.cs",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Controllers\\NvhHomeController.cs",
+              "RelativeToolTip": "Nvhlession03View\\Controllers\\NvhHomeController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T10:20:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_NvhLeftMenu.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\_NvhLeftMenu.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Shared\\_NvhLeftMenu.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\_NvhLeftMenu.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Shared\\_NvhLeftMenu.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:37:15.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:29:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NvhViewLoop.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\NvhHome\\NvhViewLoop.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Shared\\NvhHome\\NvhViewLoop.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\NvhHome\\NvhViewLoop.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Shared\\NvhHome\\NvhViewLoop.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:29:16.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Nvhviewlf.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\NvhHome\\Nvhviewlf.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Shared\\NvhHome\\Nvhviewlf.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\NvhHome\\Nvhviewlf.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Shared\\NvhHome\\Nvhviewlf.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:28:53.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NvhAbout.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\NvhHome\\NvhAbout.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Shared\\NvhHome\\NvhAbout.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\NvhHome\\NvhAbout.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Shared\\NvhHome\\NvhAbout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:27:39.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\Components\\NvhDemo\\Default.cshtml",
+              "RelativeDocumentMoniker": "Nvhlession03View\\Pages\\Shared\\Components\\NvhDemo\\Default.cshtml",
+              "ToolTip": "D:\\ASP.NET CORE\\Nvhlession03View\\Nvhlession03View\\Pages\\Shared\\Components\\NvhDemo\\Default.cshtml",
+              "RelativeToolTip": "Nvhlession03View\\Pages\\Shared\\Components\\NvhDemo\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T10:25:10.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
